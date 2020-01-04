@@ -146,5 +146,7 @@ public class Problem273 {
         System.out.println(problem.numberToWords(2123234860));
         System.out.println(problem.numberToWords(2123234060));
         System.out.println(problem.numberToWords(60));
+        System.out.println(problem.numberToWords(10));
+
     }
 }
